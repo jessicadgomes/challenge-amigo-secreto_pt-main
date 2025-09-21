@@ -20,7 +20,6 @@ O objetivo é **realizar o sorteio automático do Amigo Secreto**, garantindo qu
 - **HTML5**  
 - **CSS3**  
 
-*(ajuste aqui se o seu projeto usar outras tecnologias)*  
 
 ---
 
